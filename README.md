@@ -1,6 +1,6 @@
-# Projeto de Site - Faculdade
+# Projeto de Site - Donos da Casa
 
-Este repositório contém o projeto de um site desenvolvido para a disciplina de [nome da disciplina] durante o curso de **Análise e Desenvolvimento de Sistemas**. O objetivo deste projeto é aplicar os conhecimentos adquiridos em HTML, CSS, JavaScript, e outras tecnologias voltadas para desenvolvimento web.
+Este repositório contém o projeto de um site desenvolvido para a disciplina de IHC durante o curso de **Análise e Desenvolvimento de Sistemas**. O objetivo deste projeto é aplicar os conhecimentos adquiridos em HTML, CSS, JavaScript, e outras tecnologias voltadas para desenvolvimento web.
 
 ## Funcionalidades
 
